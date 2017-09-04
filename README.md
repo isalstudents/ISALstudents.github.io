@@ -38,19 +38,14 @@ There is a student meeting during the Friday session (10:30-12). The agenda is:
    Nominations are open until September 15th, and students can announce their
    nominations and introduce themselves during the meeting.
    
-3. Logo design vote
-
-   We're looking for a logo! If you would like to design one, submit it by
-   Friday and we'll vote during the meeting.
- 
-4. Projects and ideas
+3. Projects and ideas
 
    There are a number of ideas we've had as a group that we'd like to realize,
    like a podcast and entries in the ISAL journal. We'll discuss other ideas as
    a group during the meeting.
 
 
-5. Flash talks
+4. Flash talks
 
    Students are welcome to give a 5 minute talk about their research or a topic
    they find interesting. Sign-ups for the flash talks coming soon!
