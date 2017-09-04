@@ -25,7 +25,9 @@ There is a student meeting during the Friday session (10:30-12). The agenda is:
    do presentations, and chat about artificial life topics.
 
 2. Chair positions explanation and nominations
+
    There are five current chairs, and we are looking to add a sixth, Secretary:
+
    + General Chair
    + Vice Chair
    + ISAL board representative
