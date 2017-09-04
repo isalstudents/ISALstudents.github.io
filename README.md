@@ -43,7 +43,9 @@ There is a student meeting during the Friday session (10:30-12). The agenda is:
 4. **Flash talks**
 
    Students are welcome to give a 5 minute talk about their research or a topic
-   they find interesting. Sign-ups for the flash talks coming soon!
+   they find interesting.
+   [Sign up to give a flash talk.](https://goo.gl/forms/NjdFkjZkhRUFIGqc2)
+   There are 5 slots for talks, and they will be given first-come, first-serve.
    
   
 ## Contact
