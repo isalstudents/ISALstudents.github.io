@@ -2,6 +2,14 @@
 
 We are hosting some events at [ECAL 2017](https://project.inria.fr/ecal2017/).
 
+### Senior-Junior lunches
+
+To give students a chance to interact with faculty doing research they find
+interesting in a low pressure setting, we are organizing lunch-time networking
+on Thursday. Students will be matched with senior people in the field to have
+lunch with. If you're interested and didn't indicate so on your ECAL
+registration, sign-up at the front desk. Matching will take place via e-mail.
+
 ### Social Event
 
 Thursday, Sept 9, 20:30
@@ -43,9 +51,8 @@ There is a student meeting during the Friday session (10:30-12). The agenda is:
 4. **Flash talks**
 
    Students are welcome to give a 5 minute talk about their research or a topic
-   they find interesting.
-   [Sign up to give a flash talk.](https://goo.gl/forms/NjdFkjZkhRUFIGqc2)
-   There are 5 slots for talks, and they will be given first-come, first-serve.
+   they find interesting. Sign-ups are at the front desk. There are 5 slots for
+   talks, and they will be given first-come, first-serve.
    
   
 ## Contact
