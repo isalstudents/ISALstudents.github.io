@@ -13,7 +13,7 @@ registration, sign-up at the front desk. Matching will take place via e-mail.
 ### Social Event
 
 Thursday, Sept 9, 20:30
-Location TBA
+Location: https://www.ninkasi.fr/lieux/la-doua.html
 
 We're going to grab drinks and food after the Thursday session. Come join!
 
