@@ -1,10 +1,46 @@
 
 The [ISAL](http://alife.org/) student group is an international and
 interdisciplinary collection of students and post-docs interested in artificial
-life. We chat, share resources, and coordinate online, meeting up when we can
-at conferences. Our main activities include discussing ALife articles in a
+life. We chat, share resources, and coordinate online, meeting up when we can at
+conferences. Our main activities include discussing ALife articles in a
 structured way, discussing anything ALife related in a non-structured way,
 aggregating post-doc listings, and collectively stressing about our theses.
+
+## Life, but not as we know it (NAWKI)
+
+Exploring hypotheticals of real and artificial life
+
+The ISAL student group is starting a discussion series where we’ll take
+different crazy hypotheticals and explore them seriously. Discussion will happen
+informally in a dedicated Slack channel for one month following the question
+posting, and then will be edited by the board for brevity and formatting. The
+formatted discussions will be posted on the ISAL student group website and
+potentially in the ISAL journal. Example questions include:
+
++ How would life be different if there were no moon?
++ How would life evolve on a rogue planet with water?
++ What if reproductive cycles were universally twice as fast?
++ Does coffee speed up time?
++ What if time were variable over small areas?
+
+While we’re not looking to answer these questions by any means, approaching them
+from an artificial life mindset could be both an enjoyable exercise for us and a
+good way for others to understand our field a bit. A similar series is
+XKCD’s [“What if”](https://what-if.xkcd.com/), although this usually approaches
+questions with physics. An example of the Slack chat format is the political
+website [538’s chat series](https://fivethirtyeight.com/tag/slack-chat/).
+
+## Journal club
+
+A bi-weekly (usually) meeting to discuss different artificial life articles
+from across the field. Sign ups for the meeting time are currently underway in
+Slack.
+
+## ISAL award for Outstanding Student Research
+
+We will be awarding a student paper award as part of the 2018 ISAL awards. Any
+published works by student members can be considered for nomination. Further
+details of the voting process and timeline will be posted in Slack.
 
 ## Contact
 
@@ -12,18 +48,6 @@ Follow us on [twitter](https://twitter.com/isalstudents) or email the
 Communications Chair [Dennis](mailto:dennis@d9w.xyz) to get a Slack invite.
 
 ## Future events
-
-### Journal club
-
-A bi-weekly (usually) meeting to discuss different artificial life articles
-from across the field. Sign ups for the meeting time are currently underway in
-Slack.
-
-### Student paper award
-
-We will be awarding a student paper award as part of the 2018 ISAL awards. Any
-published works by student members can be considered for nomination. Further
-details of the voting process and timeline will be posted in Slack.
 
 ### ALIFE 2018
 
@@ -40,56 +64,20 @@ We hosted events at [ECAL 2017](https://project.inria.fr/ecal2017/).
 #### Senior-Junior lunches
 
 To give students a chance to interact with faculty doing research they find
-interesting in a low pressure setting, we are organizing lunch-time networking
-on Thursday. Students will be matched with senior people in the field to have
-lunch with. If you're interested and didn't indicate so on your ECAL
-registration, sign-up at the front desk. Matching will take place via e-mail.
+interesting in a low pressure setting, we organized lunch-time networking.
+Students were matched with seniors in the field in groups of 2-3 per senior.
 
 #### Social Event
 
-Thursday, Sept 9, 20:30
-Location: [Ninkasi La Doua](https://www.ninkasi.fr/lieux/la-doua.html)
-
-We're going to grab drinks and food after the Thursday session. Come join!
+We went out for
+[dinner and drinks](https://twitter.com/ISALstudents/status/905870085780381696)
+as a group one night during ECAL.
 
 #### Student Meeting
 
-There is a student meeting during the Friday session (10:30-12). The agenda is:
-
-1. **Student group overview**
-
-   The ISAL Student group formed at the 2016 Alife conference and has been
-   meeting regularly on Slack, Discord, and Hangouts since. We discuss articles,
-   do presentations, and chat about artificial life topics.
-
-2. **Chair positions explanation and nominations**
-
-   There are five current chairs, and we are looking to add a sixth, Secretary:
-
-   + General Chair
-   + Vice Chair
-   + ISAL board representative
-   + Communications Chair
-   + Treasurer
-   + Secretary
-
-   Nominations are open until September 15th, and students can announce their
-   nominations and introduce themselves during the meeting.
-   
-3. **Projects and ideas**
-
-   There are a number of ideas we've had as a group that we'd like to realize,
-   like a podcast and entries in the ISAL journal. We'll discuss other ideas as
-   a group during the meeting.
-
-
-4. **Flash talks**
-
-   Students are welcome to give a 5 minute talk about their research or a topic
-   they find interesting. Sign-ups are at the front desk. There are 5 slots for
-   talks, and they will be given first-come, first-serve.
-
-
+We held the first in-person general meeting of the ISAL Student Group during a
+Friday session of ECAL. Beyond discussing the group and board nominations,
+students gave 5 minute flash talks on a variety of topic.
 
 
 
