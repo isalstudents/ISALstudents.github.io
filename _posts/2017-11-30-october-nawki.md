@@ -116,9 +116,9 @@ the
 [first animals on land](http://www.sciencemag.org/news/2002/05/tracks-found-earliest-steps-land).
 But the same argument about behavior applies.
 
-<div class="hidden-sm hidden-xs" style="text-align:center;">
+<div style="text-align:center;">
 <a href="https://ecologicalprocesses.springeropen.com/articles/10.1186/2192-1709-2-1" title="Source: Early life on land and the first terrestrial ecosystems">
-<img src="/img/nawki_october_2017_microbes.png">
+<img src="/img/nawki_october_2017_microbes.png" width="80%">
 </a>
 </div>
 
