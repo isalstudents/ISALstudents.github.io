@@ -16,7 +16,7 @@ on [witter](https://twitter.com/ISALstudents) for updates.
 
 #### Conferences
 
-We have organized events at
+We have organized [events](2017/09/04/ECAL-announcements.html) at
 the
 [2017 European Conference on Artificial Life](https://project.inria.fr/ecal2017/) and
 will be organizing similar events at
