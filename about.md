@@ -11,7 +11,7 @@ life. The group was founded in September, 2016, following discussions at
 the [ALIFE 2016](http://alife2016.alife.org/) conference. Since then, the group
 has been meeting online to discuss ALife articles, share projects and job
 offers, and connect with each other. Follow the group here or
-on [witter](https://twitter.com/ISALstudents) for updates.
+on [Twitter](https://twitter.com/ISALstudents) for updates.
 
 
 #### Conferences
