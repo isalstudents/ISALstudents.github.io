@@ -1,0 +1,87 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>{{ page.title }}</title>
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- <link rel="manifest" href="site.webmanifest"> -->
+        <!-- <link rel="apple-touch-icon" href="icon.png"> -->
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/boilerplate.css">
+        <link rel="stylesheet" href="/css/main.css">
+
+        <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Atom feed">
+</head>
+<body>
+
+    <header class="banner">
+        <div class="containter">
+        <img src="/img/isal-holdingsite-banner-3a-web.png">
+        </div>
+    </header>
+
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark" id="topnavbar">
+        <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand" href="/index.html">ISAL student group</a>
+        </nav>
+
+      <div class="collapse navbar-collapse justify-content-md-center" id="navigation">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact.html">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/resources.html">Resources</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="https://twitter.com/ISALstudents">Twitter</a></li>
+              <!-- <a class="nav-link" href="https://twitter.com/ISALstudents"><i class="fa fa-twitter" aria-hidden="true"></i></a> -->
+              </a>
+          </li>
+        </ul>
+      </div>
+      </div>
+    </nav>
+
+    <main role="main" class="container">
+      <div class="mt-3">
+          {{ content }}
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <a type="application/atom+xml" href="/atom.xml">Subscribe to posts (Atom)</a>
+      </div>
+    </footer>
+
+    <script src="/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+    <!-- Google Analytics -->
+    <script>
+        window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-110463174-1','auto');ga('send','pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+</body>
+</html>
