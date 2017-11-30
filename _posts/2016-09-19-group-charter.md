@@ -5,6 +5,7 @@ date: 2016-09-19
 ---
 
 # International Society for the study of Artificial Life - Student Group
+{{page.date | date_to_string}}
 
 #### Mission Statement
 

@@ -5,6 +5,7 @@ date: 2017-08-20
 ---
 
 # {{ page.title }}
+{{page.date | date_to_string}}
 
 #### Exploring hypotheticals of real and artificial life
 

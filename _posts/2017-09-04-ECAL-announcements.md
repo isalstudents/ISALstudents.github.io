@@ -5,6 +5,7 @@ date: 2017-09-04
 ---
 
 # {{ page.title }}
+{{page.date | date_to_string}}
 
 ### ECAL 2017
 
