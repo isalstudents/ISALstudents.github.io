@@ -23,7 +23,7 @@ I must have been 10 and my mum started me on NS early haha
 
 Seems pretty influential
 
-<a href="https://en.wikipedia.org/wiki/Tidal_force" title="Source: Tidal force">
+<a target="_blank" href="https://en.wikipedia.org/wiki/Tidal_force" title="Source: Tidal force">
 <img src="/img/nawki_october_2017_tidal_force.png" width="40%" height="40%"
 style="float:right;">
 </a>
@@ -33,11 +33,6 @@ contribution to the question: no moon means 1) no sea and ocean tides, 2)
 asteroids that collided with the moon would have collided with the earth
 instead, 3) the regulation process that the moon exerts on the orbit of the
 earth would not exist
-
-
-<!-- <br/> -->
-<!-- <p>Source: <a href="https://en.wikipedia.org/wiki/Tidal_force">Wikipedia</a> -->
-<!-- </p> -->
 
 I guess that we should clarify if the question refers to: 1) the moon never
 existed, or 2) the moon suddenly disappears once life already developed
@@ -61,7 +56,6 @@ The effect of tidal forces on life formation is definitely worth considering
 though. In the event that DNA or even RNA did come around, I would imagine that
 a lack of tidal forces on coastlines would make life gathering in those places
 much less rare, slowing down aquatic evolution
-
 
 **Tim Atkinson**: Ay, I'm not suggesting that definitely no moon = no life, just
 that its a possible extreme interpretation of there being no moon
@@ -117,7 +111,7 @@ the
 But the same argument about behavior applies.
 
 <div style="text-align:center;">
-<a href="https://ecologicalprocesses.springeropen.com/articles/10.1186/2192-1709-2-1" title="Source: Early life on land and the first terrestrial ecosystems">
+<a target="_blank" href="https://ecologicalprocesses.springeropen.com/articles/10.1186/2192-1709-2-1" title="Source: Early life on land and the first terrestrial ecosystems">
 <img src="/img/nawki_october_2017_microbes.png" width="80%">
 </a>
 </div>
@@ -158,7 +152,7 @@ bio-luminescence?
 early mosses, but was similarly having a hard time figuring out if they actually
 first evolved in places where there were tides, vs. in rivers.
 
-<a href="https://academic.oup.com/plankt/article/24/9/935/1519854" title="Source: lunar cycle of zooplankton biomass in subtropical waters: biogeochemical implications">
+<a target="_blank" href="https://academic.oup.com/plankt/article/24/9/935/1519854" title="Source: lunar cycle of zooplankton biomass in subtropical waters: biogeochemical implications">
 <img src="/img/nawki_october_2017_plankton.jpeg" width="40%" height="40%" style="float:right;">
 </a>
 
