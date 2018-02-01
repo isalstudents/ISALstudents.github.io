@@ -24,7 +24,7 @@ I must have been 10 and my mum started me on NS early haha
 Seems pretty influential
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Tidal_force" title="Source: Tidal force">
-<img src="/img/nawki_october_2017_tidal_force.png" width="40%" height="40%"
+<img src="/img/nawki/2017/10/tidal_force.png" width="40%" height="40%"
 style="float:right;">
 </a>
 
@@ -112,7 +112,7 @@ But the same argument about behavior applies.
 
 <div style="text-align:center;">
 <a target="_blank" href="https://ecologicalprocesses.springeropen.com/articles/10.1186/2192-1709-2-1" title="Source: Early life on land and the first terrestrial ecosystems">
-<img src="/img/nawki_october_2017_microbes.png" width="80%">
+<img src="/img/nawki/2017/10/microbes.png" width="80%">
 </a>
 </div>
 
@@ -153,7 +153,7 @@ early mosses, but was similarly having a hard time figuring out if they actually
 first evolved in places where there were tides, vs. in rivers.
 
 <a target="_blank" href="https://academic.oup.com/plankt/article/24/9/935/1519854" title="Source: lunar cycle of zooplankton biomass in subtropical waters: biogeochemical implications">
-<img src="/img/nawki_october_2017_plankton.jpeg" width="40%" height="40%" style="float:right;">
+<img src="/img/nawki/2017/10/plankton.jpeg" width="40%" height="40%" style="float:right;">
 </a>
 
 I feel like I should know the answer to this, but without the moon how dark
