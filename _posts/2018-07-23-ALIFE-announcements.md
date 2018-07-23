@@ -36,11 +36,3 @@ brain-body-environment-body-brain system," presented by Jorge Campos
 Tuesday night, we'll be going out as a student group. We'll first meet near the
 cruise departure point at 7 so any students who are going on the cruise can join
 us then. Afterwards, we'll head to a restaurant to hang out together!
-
-#### Senior-Junior lunches
-
-To give students a chance to interact with faculty doing research they find
-interesting in a low pressure setting, we'll be organizing a lunch-time
-networking. Students will be matched with seniors in the field in groups of 2-3
-per senior.
-
