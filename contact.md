@@ -5,8 +5,7 @@ title: Contact us
 
 # {{ page.title }}
 
-If you'd like to join, use [this](http://isalstudentsinvite.herokuapp.com/)
-Heroku app.
+If you'd like to join, use [bit.ly/isalstudents](http://bit.ly/isalstudents)
 
 Follow us on [twitter](https://twitter.com/ISALstudents).
 
